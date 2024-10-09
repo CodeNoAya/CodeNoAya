@@ -1,3 +1,4 @@
+![Me](https://raw.githubusercontent.com/CodeNoAya/CodeNoAya/refs/heads/main/Ayanoguruguru.gif)
 ## Hello World! 👋
 
 I'm deeply passionate about exploring cutting-edge technologies, building innovative solutions, and diving into the world of robotics and AI. 🚀
