@@ -4,7 +4,7 @@
 I'm deeply passionate about exploring cutting-edge technologies, building innovative solutions, and diving into the world of robotics and AI. 🚀
 
 ### 🌟 My Tech Journey:
-- 🎓 Currently studying at , focusing on **technology** and **robotics**.
+- 🎓 Currently studying at Universitas Trunojoyo Madura, focusing on **technology** and **robotics**.
 - 🤖 Exploring the fascinating world of **robotics**, from hardware programming to control systems using languages like **C++** and **Python**.
 - 🔭 Working on a **Fullstack Project Management App** aimed at streamlining workflows and enhancing productivity.
 - 🧠 Deep diving into **Machine Learning** with **TensorFlow** and **Keras**, applying models to solve problems in robotics and automation.
