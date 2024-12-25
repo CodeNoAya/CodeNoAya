@@ -5,7 +5,7 @@ on:
     branches:
       - main
   schedule:
-    - cron: "0 0 * * *" # Jalankan setiap hari pada pukul 00:00 UTC
+    - cron: "0 0 * * *"
 
 jobs:
   generate:
@@ -17,8 +17,10 @@ jobs:
       - name: Generate Snake Animation
         uses: Platane/snk@v2
         with:
-          github_user_name: CodeNoAya # Ganti dengan username GitHub Anda
+          github_user_name: CodeNoAya
           outputs: dist/snake.svg
+        env:
+          GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}
 
       - name: Commit and Push Changes
         run: |
